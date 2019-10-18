@@ -28,6 +28,7 @@ class App extends Component {
       property: data.properties[newIndex]
     })
   }
+  /*dddfasd*/ 
 
   render() {
     const {property} = this.state;
